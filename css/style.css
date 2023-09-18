@@ -252,16 +252,16 @@ input{
 #section2 .mainpage .content_left{
     width: 50%;
     height: 100vh; 
-    padding-top: 40px;
+    padding-top: 50px;
     margin-top: 40px;
     justify-content: center; 
     align-items: center;
 }
 
 #section2 .mainpage .content_left h2{
-    font-size: xx-large;
-    line-height: 40px;
-    margin-bottom: 10px;
+    font-size: 250%;
+    line-height: 50px;
+    margin-bottom: 30px;
 }
 
 #section2 .mainpage .content_left p{
@@ -281,27 +281,30 @@ input{
     column-gap: 20px;
     display: flex;
     justify-items: center;
-    margin-right: 20px;    
+    margin-right: 20px;  
+    margin-top: 15px;  
 }
 
 .left_icon{
     display: grid;
     justify-items: center;
     align-items: center;
+    row-gap: 25px;
 
 }
 
 .intext{
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 #section2 .content_right .number-rows h3{
     margin: 10px 0px 10px;
+    font-size: x-large;
 }
 
 #section2 .content_right .number-rows p{
-    font-size: 10px;
-    line-height: 18px;
+    font-size: x-small;
+    line-height: 25px;
     margin-bottom: 10px;  
 }
 
